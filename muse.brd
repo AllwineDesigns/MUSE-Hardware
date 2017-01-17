@@ -4204,7 +4204,10 @@ design rules under a new name.</description>
 <signal name="N$10">
 <contactref element="X1" pad="4"/>
 <contactref element="R12" pad="2"/>
-<wire x1="78.74" y1="29.21" x2="86.36" y2="35.56" width="0" layer="19" extent="1-1"/>
+<wire x1="80.01" y1="35.56" x2="86.36" y2="35.56" width="0.254" layer="1"/>
+<wire x1="80.01" y1="32.385" x2="80.01" y2="35.56" width="0.254" layer="1"/>
+<wire x1="78.74" y1="31.115" x2="80.01" y2="32.385" width="0.254" layer="1"/>
+<wire x1="78.74" y1="29.21" x2="78.74" y2="31.115" width="0.254" layer="1"/>
 </signal>
 </signals>
 </board>

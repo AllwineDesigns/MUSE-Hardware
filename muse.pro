@@ -1,25 +1,25 @@
 EAGLE AutoRouter Statistics:
 
-Job           : /Users/jallwine/work/AllwineDesigns/Blog/MIDIArduinoKeyboard/MIDIArduinoKeyboard.brd
+Job           : /Users/jallwine/work/AllwineDesigns/Blog/MUSE/muse-hardware/muse.brd
 
-Start at      : 14:21:36 (9/24/16)
-End at        : 14:21:38 (9/24/16)
+Start at      : 20:18:23 (1/16/17)
+End at        : 20:19:05 (1/16/17)
 Elapsed time  : 00:00:00
 
 Signals       :    27   RoutingGrid: 25 mil  Layers: 2
-Connections   :    58   predefined:  51 ( 4 Vias )
+Connections   :    58   predefined:  57 ( 5 Vias )
 
 Router memory :   56320
 
-Passname          :    Busses     Route Optimize1 Optimize2 Optimize3 Optimize4
+Passname          :     Route Optimize1 Optimize2 Optimize3 Optimize4
 
-Time per pass     :  00:00:00  00:00:00  00:00:00  00:00:00  00:00:00  00:00:00
-Number of Ripups  :         0         0         0         0         0         0
-max. Level        :         0         0         0         0         0         0
-max. Total        :         0         0         0         0         0         0
+Time per pass     :  00:00:00  00:00:00  00:00:00  00:00:00  00:00:00
+Number of Ripups  :         0         0         0         0         0
+max. Level        :         0         0         0         0         0
+max. Total        :         0         0         0         0         0
 
-Routed            :         0         7         7         7         7         7
-Vias              :         0         6         1         3         3         1
-Resolution        :    87.9 %   100.0 %   100.0 %   100.0 %   100.0 %   100.0 %
+Routed            :         1         1         1         1         1
+Vias              :         1         0         0         0         0
+Resolution        :   100.0 %   100.0 %   100.0 %   100.0 %   100.0 %
 
 Final             : 100.0% finished
